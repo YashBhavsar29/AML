@@ -1,0 +1,30 @@
+# ============================================================
+# UNKNOWN PATTERNS SKIPPED DUE TO PRIORITY
+# patterns.txt has priority over unknown_patterns.txt
+# ============================================================
+
+SKIPPED PATTERN 1
+SOURCE: unknown_patterns.txt
+HEADER: BEGIN LAUNDERING ATTEMPT - MULTI-HOP CHAIN: 11-transaction chain: 801C58BA0 -> 800134EE0 -> 8015D5CB0 -> 800EE7AB0 -> 80150CA50 -> 800E9D090 -> 800A68310 -> 800A4BFC0 -> 8005D4D40 -> 801A01340 -> 800820860 -> 8003DAC70
+REASON: Duplicate pattern already present in higher-priority patterns.txt
+
+SKIPPED PATTERN 2
+SOURCE: unknown_patterns.txt
+HEADER: BEGIN LAUNDERING ATTEMPT - MULTI-HOP CHAIN: 2-transaction chain: 802700E10 -> 801CEE180 -> 801D26460
+REASON: Duplicate pattern already present in higher-priority patterns.txt
+
+SKIPPED PATTERN 3
+SOURCE: unknown_patterns.txt
+HEADER: BEGIN LAUNDERING ATTEMPT - MULTI-HOP CHAIN: 2-transaction chain: 800203760 -> 8001A77D0 -> 80029BDF0
+REASON: Duplicate pattern already present in higher-priority patterns.txt
+
+SKIPPED PATTERN 4
+SOURCE: unknown_patterns.txt
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE: Cycle detected returning to 8102A4BA0
+REASON: Duplicate pattern already present in higher-priority patterns.txt
+
+SKIPPED PATTERN 5
+SOURCE: unknown_patterns.txt
+HEADER: BEGIN LAUNDERING ATTEMPT - FAN-IN: 2-degree Fan-In to 8026EA1A0
+REASON: Duplicate pattern already present in higher-priority patterns.txt
+

@@ -1,0 +1,154 @@
+# ============================================================
+# PATTERNS WITHOUT GENERATED FRAUD REPORT
+# ============================================================
+
+PATTERN INDEX: 6
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - GATHER-SCATTER:  Max 1-degree Fan-In
+
+PATTERN INDEX: 30
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - SCATTER-GATHER
+
+PATTERN INDEX: 33
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE:  Max 11 hops
+
+PATTERN INDEX: 34
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - STACK
+
+PATTERN INDEX: 39
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE:  Max 3 hops
+
+PATTERN INDEX: 41
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - GATHER-SCATTER:  Max 1-degree Fan-In
+
+PATTERN INDEX: 44
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - SCATTER-GATHER
+
+PATTERN INDEX: 46
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE:  Max 2 hops
+
+PATTERN INDEX: 51
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE:  Max 10 hops
+
+PATTERN INDEX: 64
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - STACK
+
+PATTERN INDEX: 66
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - STACK
+
+PATTERN INDEX: 76
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE:  Max 11 hops
+
+PATTERN INDEX: 78
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - SCATTER-GATHER
+
+PATTERN INDEX: 79
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - STACK
+
+PATTERN INDEX: 80
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - SCATTER-GATHER
+
+PATTERN INDEX: 82
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE:  Max 7 hops
+
+PATTERN INDEX: 87
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE:  Max 2 hops
+
+PATTERN INDEX: 95
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE:  Max 3 hops
+
+PATTERN INDEX: 96
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE:  Max 4 hops
+
+PATTERN INDEX: 103
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - SCATTER-GATHER
+
+PATTERN INDEX: 107
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE:  Max 4 hops
+
+PATTERN INDEX: 110
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE:  Max 13 hops
+
+PATTERN INDEX: 112
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - STACK
+
+PATTERN INDEX: 115
+SOURCE: patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - CYCLE:  Max 13 hops
+
+PATTERN INDEX: 368
+SOURCE: unknown_patterns.txt
+REASON: No source/victim node with in-degree 0
+VICTIM ACCOUNT: 
+HEADER: BEGIN LAUNDERING ATTEMPT - FAN-OUT: 2-degree Fan-Out from 81522E390
+
